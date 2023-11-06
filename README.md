@@ -1,4 +1,4 @@
-# Feature Switcher Library
+# Feature Switching Library
 
 The Feature Switcher Library allows you to dynamically enable or disable specific functions or methods in your application based on flag values stored in a database. It provides a flexible way to control the behavior of your application without the need for code changes.
 
